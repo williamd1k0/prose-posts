@@ -7,7 +7,7 @@ tags: [pt, chitchat, make]
 
 ![make](https://i.imgur.com/l32GqC3.png)
 
-Nem todo mundo hoje em dia sabe pra que serve um arquivo Makefile, mas quase todo mundo que frequenta o GitHub já deve ter trombado com algum repositório que contém um.
+Nem todo programador hoje em dia sabe pra que serve um arquivo Makefile, mas quase todo mundo que frequenta o GitHub já deve ter trombado com algum repositório que contém um.
 
 Isso não é coincidência, o [Make](https://en.wikipedia.org/wiki/Make_(software)) (ferramenta que interpreta os Makefiles) já é utilizado há quase 50 anos em vários projetos C e C++.
 
