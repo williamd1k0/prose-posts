@@ -2,7 +2,7 @@
 title: Não estou sozinho no sshverso
 description: Aparentemente não sou o único brasileiro que usa ssh lol.
 date: 2022-08-01
-tags: [pt, chitchat]
+tags: [pt, devaneios]
 ---
 
 ![ssh](https://i.imgur.com/43enwaJ.png)

@@ -2,7 +2,7 @@
 title: Estou viciado em Makefiles
 description: Minha história de amor? com o make(1).
 date: 2022-08-08
-tags: [pt, chitchat, make]
+tags: [pt, devaneios, make]
 ---
 
 ![make](https://i.imgur.com/l32GqC3.png)
