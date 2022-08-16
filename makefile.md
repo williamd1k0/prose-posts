@@ -41,3 +41,6 @@ To delete specific posts:
 ```sh
 make delete f+=post01.md f+=post02.md
 ```
+
+***
+GitHub comments: https://github.com/williamd1k0/prose-posts/issues/3

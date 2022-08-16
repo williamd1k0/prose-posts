@@ -66,3 +66,6 @@ Tenho utilizado Make pra converter arquivos, renomear aquivos em massa, automati
 
 Caso nunca tenham tentado usar Make, recomendo que experimentem brincar um pouco.
 Pode ser um pouco complicado entender o funcionamento no início, mas depois que você pega o jeito fica muito mais prático.
+
+***
+GitHub comments: https://github.com/williamd1k0/prose-posts/issues/2

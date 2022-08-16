@@ -18,3 +18,6 @@ Tava dando uma olhada nos posts recentes e percebi que brotaram alguns brs, ent�
 "CC" pro pessoal que já vi por aqui:
 - olar 👋 [@maiorevil](https://maiorevil.prose.sh/)
 - olar 👋 [@jackson](https://jackson.prose.sh/)
+
+***
+GitHub comments: https://github.com/williamd1k0/prose-posts/issues/1
