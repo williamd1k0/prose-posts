@@ -5,7 +5,7 @@ date: 2022-08-01
 tags: [pt, devaneios]
 ---
 
-![ssh](https://user-images.githubusercontent.com/10428035/184781014-ba84855a-78ff-4e3f-8a8e-836947ec2c1b.png)
+![ssh](https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/ssh-magic.png)
 
 Obvio que não estou sozinho, eu que sou um tanto quanto hiperbólico e dramático (quem me conhece sabe que eu sou basicamente um drama queen).
 

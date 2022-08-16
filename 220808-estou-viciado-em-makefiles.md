@@ -5,7 +5,7 @@ date: 2022-08-08
 tags: [pt, devaneios, make]
 ---
 
-![make](https://user-images.githubusercontent.com/10428035/184781429-8ba4324e-abc6-4091-8270-1e4b3ce427a7.png)
+![make](https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/make-anya.png)
 
 Nem todo programador hoje em dia sabe pra que serve um arquivo Makefile, mas quase todo mundo que frequenta o GitHub já deve ter trombado com algum repositório que contém um.
 
