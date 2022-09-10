@@ -5,7 +5,7 @@ date: 2022-09-10
 tags: [pt, crypto, l10n]
 ---
 
-![crypto](assets/crypto.png)
+![crypto](https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/crypto.png)
 
 >Este texto é uma tradução/adaptação de um artigo publicado originalmente por Panayotis Vryonis em seu blog pessoal: https://blog.vrypan.net/2013/08/28/public-key-cryptography-for-non-geeks/
 
@@ -32,12 +32,12 @@ Mas esta é uma caixa com uma fechadura muito especial.
 
 Esta fechadura tem três estados: A (trancado), B (destrancado) e C (trancado).
 
-![crypto-pub01](assets/crypto-pub01.png)
+![crypto-pub01](https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/crypto-pub01.png)
 
 E tem **duas** chaves separadas (sim, duas).
 **A primeira chave só pode girar no sentido horário** (de A para B para C) e **a segunda só pode girar no sentido anti-horário** (de C para B para A).
 
-![crypto-pub02](assets/crypto-pub02.png)
+![crypto-pub02](https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/crypto-pub02.png)
 
 Ana pega a primeira chave e guarda para si.
 Chamaremos essa chave de chave "privada", porque somente Ana a possui.
@@ -46,7 +46,7 @@ Chamaremos a segunda chave de chave "pública".
 Ana faz uma centena de cópias dela e dá algumas para amigos e familiares, deixa um punhado em sua mesa no escritório, pendura algumas do lado de fora de sua porta, etc.
 Se alguém lhe pede um cartão de visita, ela também lhe entrega uma cópia da chave.
 
-![crypto-pub03](assets/crypto-pub03.png)
+![crypto-pub03](https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/crypto-pub03.png)
 
 Então, Ana tem sua chave privada que pode mudar de A para B para C.
 E todos os outros têm sua chave pública que pode mudar de C para B para A.
