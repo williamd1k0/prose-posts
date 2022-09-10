@@ -11,7 +11,7 @@ tags: [pt, crypto, l10n]
 
 Muitas vezes me pego tentando explicar criptografia de chave pública para os meus amigos.
 Para minha surpresa, há pouca coisa escrita sobre o assunto para ajudar alguém sem habilidades matemáticas a entender os conceitos básicos da criptografia de chave pública.
-Tudo que encontrei faz parecer mais complicado do que deveria.
+Tudo que encontrei faz o assunto parecer mais complicado do que deveria.
 
 ## Criptografia Simétrica
 A criptografia de chave pública é baseada no que é chamado de criptografia "assimétrica".
@@ -60,7 +60,7 @@ Agora a caixa está trancada.
 A única chave que pode mudar de A para B é a chave privada da Ana, aquela que ela guardou para si.
 
 É isso!
-Isso é o que chamamos de criptografia de chave pública: todo mundo que tem a chave pública da Ana (e é fácil encontrar uma cópia, ela estava distribuindo várias por aí, lembra?) pode colocar documentos em sua caixa, trancá-la e ter a certeza que a única pessoa que pode destrancá-lo é a própria Ana.
+Isso é o que chamamos de criptografia de chave pública: todo mundo que tem a chave pública da Ana (e é fácil encontrar uma cópia, ela estava distribuindo várias por aí, lembra?) pode colocar documentos em sua caixa, trancá-la e ter a certeza que a única pessoa que pode destrancá-la é a própria Ana.
 
 ## Assinaturas Digitais
 Há mais um uso interessante desta caixa.
@@ -69,7 +69,7 @@ Suponha que Ana coloque um documento nele.
 Em seguida, ela usa a chave privada dela para trancar a caixa, ou seja, ela gira a chave da posição B para a posição C.
 
 Por que ela faria isso?
-Afinal, qualquer pessoa com sua chave pública pode desbloqueá-la!
+Afinal, qualquer pessoa com sua chave pública pode destrancá-la!
 Espere.
 
 Alguém me entrega esta caixa e diz que é da Ana.
@@ -85,7 +85,7 @@ Então, tenho certeza de que Ana, e mais ninguém, colocou os documentos na caix
 **Chamamos isso de "assinatura digital".**
 
 ## Chaves são números
-No mundo dos computadores as coisas são muito mais fáceis.[^1]
+No mundo dos computadores as coisas são muito mais simples.[^1]
 
 "Chaves" são apenas números —números grandes e longos com muitos dígitos.
 Você pode guardar sua chave privada, que é um número, em um arquivo de texto ou em um aplicativo especial.
@@ -98,6 +98,8 @@ Se você criptografar (ou seja, "trancar") algo com a sua chave privada, qualque
 
 ## Notas
 
-[^1]: As coisas também podem ficar muito mais complicadas.
+- Ilustrações por [Nicholas Mozart](https://www.instagram.com/nmoz.art/) (comissionado).
+
+[^1]: As coisas também podem ficar muito mais complexas.
 Podemos usar nossa chave privada para assinar um arquivo e depois a chave pública de outra pessoa para criptografá-lo para que somente essa pessoa possa lê-lo.
 E um usuário, ou uma organização, pode assinar digitalmente as chaves de outros usuários para verificar sua autenticidade, etc, etc.
