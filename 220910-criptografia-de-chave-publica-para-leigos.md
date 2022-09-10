@@ -3,6 +3,8 @@ title: Criptografia de chave pública para leigos
 description: Não é tão complicado quanto parece.
 date: 2022-09-10
 tags: [pt, crypto, l10n]
+image: https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/crypto.png
+card: summary_large_image
 ---
 
 ![crypto](https://raw.githubusercontent.com/williamd1k0/prose-posts/main/assets/crypto.png)
